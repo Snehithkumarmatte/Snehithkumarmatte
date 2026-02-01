@@ -1,124 +1,116 @@
-
-<!-- ====== NEON BANNER ====== -->
+<!-- =================== HERO BANNER =================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:ff00ff,50:00e5ff,100:00ff9c&text=Snehith%20Kumar%20Matte&fontSize=42&fontColor=0a0a0a&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:020617,50:0f172a,100:020617&text=Hello%2C%20I'm%20Snehith&fontSize=42&fontColor=E5E7EB&animation=fadeIn&fontAlignY=45" />
 </p>
 
-<!-- ====== NEON TYPING ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=2500&pause=700&color=00FFEA&center=true&vCenter=true&width=700&lines=Software+Engineer;FAANG+Ready;800%2B+LeetCode+Solved;Backend+%7C+Systems+%7C+ML;Build.+Scale.+Dominate." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Software+Engineer;800%2B+DSA+Problems+Solved;Backend+%7C+Systems+%7C+Applied+ML;FAANG+%7C+Remote+Ready" />
 </p>
 
 ---
 
-## 🌌 About Me
+## 👋 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="280"/>
-</p>
+I’m a **software engineer** who enjoys building **backend systems that don’t break**, solving **algorithmic problems**, and understanding how systems behave at scale.
 
-🚀 **Neon-minded Software Engineer** driven by **performance, scale, and clean architecture**.
+I like clean abstractions, predictable performance, and code that’s easy to reason about.
 
-- 🎓 B.Tech (EEE), **NIT Andhra Pradesh (2026)**
-- 🧠 **800+ LeetCode problems solved**
-- 🔬 Research Intern @ **IISc Bangalore | IIT Hyderabad | NIT Warangal**
-- 🌍 Open to **FAANG / BigTech / Remote SWE roles**
-- ⚡ Addicted to **systems, speed, and shipping code**
+- 🎓 **B.Tech (EEE), NIT Andhra Pradesh — Class of 2026**
+- 🧠 Solved **800+ Data Structures & Algorithms problems**
+- 🔬 Research experience at **IISc Bangalore, IIT Hyderabad, NIT Warangal**
+- 💻 Interested in **Backend Engineering, Distributed Systems, Applied ML**
+- 🌍 Actively exploring **FAANG / BigTech / Remote SWE roles**
 
 ---
 
-## 🛠️ Tech Arsenal (Neon Mode)
+## 🧠 What I’m Good At
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-00FFEA?style=for-the-badge&logo=python&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00FFEA?style=for-the-badge&logo=cplusplus&logoColor=black)
-![Java](https://img.shields.io/badge/Java-00FFEA?style=for-the-badge&logo=java&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-00FFEA?style=for-the-badge&logo=postgresql&logoColor=black)
+- **Data Structures & Algorithms**  
+  Strong fundamentals, pattern recognition, and problem decomposition.
 
-### ⚙️ Backend & Systems
-![FastAPI](https://img.shields.io/badge/FastAPI-FF00FF?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FF00FF?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FF00FF?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-FF00FF?style=for-the-badge&logo=git&logoColor=white)
+- **Backend Engineering**  
+  Designing APIs, handling data flow, thinking about reliability and performance.
 
-### 🤖 ML (Bonus)
-![PyTorch](https://img.shields.io/badge/PyTorch-00FF9C?style=for-the-badge&logo=pytorch&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-00FF9C?style=for-the-badge&logo=tensorflow&logoColor=black)
+- **Systems Thinking**  
+  I care about scalability, correctness, and trade-offs—not just “making it work”.
+
+- **Machine Learning (Applied)**  
+  Used where it adds value, not as buzzwords.
 
 ---
 
-## 🏆 Achievements
+## 🛠️ Tech Stack
 
-✨ **800+ LeetCode problems solved**  
-✨ Research paper **under review** (Hop Domination – Graph Theory)  
-✨ Built **high-performance backend APIs & ML pipelines**  
-✨ Strong in **time & space optimization**  
+**Languages**  
+`Python` · `C++` · `Java` · `SQL`
+
+**Backend & Systems**  
+`FastAPI` · `REST APIs` · `Docker` · `Linux` · `Git`
+
+**ML / Data (when needed)**  
+`PyTorch` · `TensorFlow` · `Pandas` · `NumPy`
 
 ---
 
-## 🔥 Featured Projects
+## 🏆 Highlights
+
+- 🧩 **800+ DSA problems solved** across platforms
+- 📄 **Research paper under review** — Hop Domination (Graph Theory)
+- 🚀 Built **production-style backend APIs and ML pipelines**
+- ⚡ Strong focus on **performance, clarity, and maintainability**
+- 🔁 Regular competitive programming and problem-solving practice
+
+---
+
+## 🔥 Selected Projects
 
 ### 🚗 Stock Price Prediction (Time-Series ML)
-- Advanced feature engineering
-- **99.33% R²**, **0.81% MAPE**
-- End-to-end pipeline
+- Designed robust feature engineering (lags, rolling statistics)
+- Achieved **99.33% R²** and **0.81% MAPE**
+- Emphasis on evaluation and reproducibility
 
 ### 🎬 Movie Review Platform
-- Real-time movie data via APIs
-- Secure API key handling
-- Backend-first design
+- Backend-first design with third-party movie APIs
+- Secure API-key handling and clean REST architecture
 
-### 🔋 Battery Health Prediction
-- Sensor-based time-series ML
-- **18% RMSE improvement**
+### 🔋 Battery Health & RUL Prediction
+- Time-series modeling on sensor data
+- Improved RMSE by **18%** over baseline models
 
 ---
 
-## 🧠 Coding Zone
+## 🧩 Coding Profile
 
 <p align="center">
   <a href="https://leetcode.com/u/snehithkumarmatte">
-    <img src="https://img.shields.io/badge/LeetCode-800%2B-00FFEA?style=for-the-badge&logo=leetcode&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LeetCode-800%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌌 Outside of Code
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Snehithkumarmatte&show_icons=true&theme=radical&hide_border=true" />
-</p>
+🚗 Cars & engineering  
+🌌 Astronomy and space tech  
+📚 Learning how complex systems work  
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Snehithkumarmatte&theme=radical&hide_border=true" />
-</p>
+> *I like building simple things that scale well.*
 
 ---
 
-## 🌠 Neon Swag Zone
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="240"/>
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="240"/>
-</p>
-
-> _"Write code like neon — bright, fast, unforgettable."_ ✨
-
----
-
-## 📫 Connect
+## 📫 Reach Me
 
 <p align="center">
   <a href="mailto:snehithkumarmatte@gmail.com">
-    <img src="https://img.shields.io/badge/Email-00FFEA?style=for-the-badge&logo=gmail&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
   <a href="https://linkedin.com/in/snehithkumarmatte">
-    <img src="https://img.shields.io/badge/LinkedIn-00FFEA?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
 </p>
 
-<!-- ====== FOOTER ====== -->
+<!-- =================== FOOTER =================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:ff00ff,50:00e5ff,100:00ff9c&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:020617,50:0f172a,100:020617&section=footer"/>
 </p>
