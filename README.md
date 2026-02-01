@@ -1,85 +1,97 @@
+
+<!-- ===================================================== -->
+<!--  GitHub Profile README                               -->
+<!--  Snehith Kumar Matte                                 -->
+<!--  Software Engineer | Backend | Systems                -->
+<!-- ===================================================== -->
+
 <!-- =================== HERO BANNER =================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:020617,50:0f172a,100:020617&text=Hello%2C%20I'm%20Snehith&fontSize=42&fontColor=E5E7EB&animation=fadeIn&fontAlignY=45" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:020617,50:0f172a,100:020617&text=Snehith%20Kumar%20Matte&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=45">
+    <img
+      src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:e5e7eb,50:f8fafc,100:e5e7eb&text=Snehith%20Kumar%20Matte&fontSize=42&fontColor=020617&animation=fadeIn&fontAlignY=45" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Software+Engineer;800%2B+DSA+Problems+Solved;Backend+%7C+Systems+%7C+Applied+ML;FAANG+%7C+Remote+Ready" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=780&lines=Software+Engineer;800%2B+Data+Structures+%26+Algorithms+Problems;Backend+%7C+Systems+%7C+Applied+Machine+Learning;FAANG+and+Remote+Ready" />
 </p>
 
 ---
 
-## 👋 About Me
+## About
 
-I’m a **software engineer** who enjoys building **backend systems that don’t break**, solving **algorithmic problems**, and understanding how systems behave at scale.
+I am a software engineer focused on building reliable backend systems, writing clear and maintainable code,
+and solving algorithmic problems efficiently.
 
-I like clean abstractions, predictable performance, and code that’s easy to reason about.
+I care about correctness, performance, and understanding the trade-offs involved in system design.
 
-- 🎓 **B.Tech (EEE), NIT Andhra Pradesh — Class of 2026**
-- 🧠 Solved **800+ Data Structures & Algorithms problems**
-- 🔬 Research experience at **IISc Bangalore, IIT Hyderabad, NIT Warangal**
-- 💻 Interested in **Backend Engineering, Distributed Systems, Applied ML**
-- 🌍 Actively exploring **FAANG / BigTech / Remote SWE roles**
-
----
-
-## 🧠 What I’m Good At
-
-- **Data Structures & Algorithms**  
-  Strong fundamentals, pattern recognition, and problem decomposition.
-
-- **Backend Engineering**  
-  Designing APIs, handling data flow, thinking about reliability and performance.
-
-- **Systems Thinking**  
-  I care about scalability, correctness, and trade-offs—not just “making it work”.
-
-- **Machine Learning (Applied)**  
-  Used where it adds value, not as buzzwords.
+- B.Tech in Electrical and Electronics Engineering, NIT Andhra Pradesh (2026)
+- Solved 800+ problems in Data Structures and Algorithms
+- Research experience at IISc Bangalore, IIT Hyderabad, and NIT Warangal
+- Primary interests: Backend Engineering, Distributed Systems, Applied Machine Learning
+- Actively exploring full-time software engineering opportunities
 
 ---
 
-## 🛠️ Tech Stack
+## Core Strengths
 
-**Languages**  
-`Python` · `C++` · `Java` · `SQL`
-
-**Backend & Systems**  
-`FastAPI` · `REST APIs` · `Docker` · `Linux` · `Git`
-
-**ML / Data (when needed)**  
-`PyTorch` · `TensorFlow` · `Pandas` · `NumPy`
+- Strong foundations in Data Structures and Algorithms
+- Backend development with a focus on APIs, data flow, and performance
+- Systems-oriented thinking: scalability, reliability, and simplicity
+- Applied machine learning for real-world problem solving
 
 ---
 
-## 🏆 Highlights
+## Technical Skills
 
-- 🧩 **800+ DSA problems solved** across platforms
-- 📄 **Research paper under review** — Hop Domination (Graph Theory)
-- 🚀 Built **production-style backend APIs and ML pipelines**
-- ⚡ Strong focus on **performance, clarity, and maintainability**
-- 🔁 Regular competitive programming and problem-solving practice
+### Programming Languages
+```
+Python | C++ | Java | SQL
+```
 
----
+### Backend and Systems
+```
+FastAPI | REST APIs | Docker | Linux | Git
+```
 
-## 🔥 Selected Projects
-
-### 🚗 Stock Price Prediction (Time-Series ML)
-- Designed robust feature engineering (lags, rolling statistics)
-- Achieved **99.33% R²** and **0.81% MAPE**
-- Emphasis on evaluation and reproducibility
-
-### 🎬 Movie Review Platform
-- Backend-first design with third-party movie APIs
-- Secure API-key handling and clean REST architecture
-
-### 🔋 Battery Health & RUL Prediction
-- Time-series modeling on sensor data
-- Improved RMSE by **18%** over baseline models
+### Machine Learning and Data
+```
+PyTorch | TensorFlow | Pandas | NumPy
+```
 
 ---
 
-## 🧩 Coding Profile
+## Highlights
+
+- Solved over 800 algorithmic problems across coding platforms
+- Research paper on Hop Domination in graphs currently under review
+- Built production-style backend APIs and end-to-end ML pipelines
+- Emphasis on clean code, performance, and maintainability
+- Regular practice in competitive programming and problem solving
+
+---
+
+## Selected Projects
+
+### Stock Price Prediction (Time-Series Machine Learning)
+- Designed feature engineering pipelines using lag variables and rolling statistics
+- Achieved 99.33 percent R² and 0.81 percent MAPE on unseen data
+- Focused on reproducibility and evaluation
+
+### Movie Review Platform
+- Backend-driven application integrating third-party movie APIs
+- Secure handling of API keys and structured REST architecture
+
+### Battery Health and RUL Prediction
+- Time-series modeling on sensor-based datasets
+- Improved RMSE by 18 percent compared to baseline approaches
+
+---
+
+## Coding Profile
 
 <p align="center">
   <a href="https://leetcode.com/u/snehithkumarmatte">
@@ -89,17 +101,17 @@ I like clean abstractions, predictable performance, and code that’s easy to re
 
 ---
 
-## 🌌 Outside of Code
+## Interests
 
-🚗 Cars & engineering  
-🌌 Astronomy and space tech  
-📚 Learning how complex systems work  
+Cars and automotive engineering  
+Astronomy and space technology  
+Learning how large-scale systems are built and maintained  
 
-> *I like building simple things that scale well.*
+> Building simple systems that scale well.
 
 ---
 
-## 📫 Reach Me
+## Contact
 
 <p align="center">
   <a href="mailto:snehithkumarmatte@gmail.com">
@@ -112,5 +124,10 @@ I like clean abstractions, predictable performance, and code that’s easy to re
 
 <!-- =================== FOOTER =================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=110&color=0:020617,50:0f172a,100:020617&section=footer"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:020617,50:0f172a,100:020617&section=footer">
+    <img
+      src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:e5e7eb,50:f8fafc,100:e5e7eb&section=footer">
+  </picture>
 </p>
