@@ -1,28 +1,114 @@
-<h1 align="center">Hi 👋, I'm snehith kumar matte</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **machine learning**
-
-- 🌱 I’m currently learning **react,node and open shift**
-
-- 👯 I’m looking to collaborate on **software ,hardware and ai/ml roles**
-
-- 🤝 I’m looking for help with **full stack**
-
-- ⚡ Fun fact **i love astronomy and cricket**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/snehithkumarmatte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snehithkumarmatte" height="30" width="40" /></a>
+<!-- ====== BANNER ====== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Snehith%20Kumar%20Matte&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<!-- ====== TYPING ANIMATION ====== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=650&lines=Software+Engineer;FAANG+Ready+%7C+Remote+Ready;800%2B+LeetCode+Solved;Backend+%7C+Systems+%7C+ML;Code.+Build.+Scale." />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snehithkumarmattte&show_icons=true&locale=en&layout=compact" alt="snehithkumarmattte" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snehithkumarmattte&show_icons=true&locale=en" alt="snehithkumarmattte" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snehithkumarmattte&" alt="snehithkumarmattte" /></p>
+🚀 **Software Engineer** with strong foundations in  
+**Data Structures, Algorithms, Backend Engineering, and Machine Learning**.
+
+- 🎓 B.Tech (EEE), **NIT Andhra Pradesh (2026)**
+- 🧠 **800+ problems solved on LeetCode**
+- 🔬 Research Intern @ **IISc Bangalore | IIT Hyderabad | NIT Warangal**
+- 🌍 Open to **FAANG / BigTech / Remote SWE roles**
+- ⚡ Obsessed with **clean code, performance, and scalable systems**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-0f2027?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-0f2027?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-0f2027?style=for-the-badge&logo=java)
+![SQL](https://img.shields.io/badge/SQL-0f2027?style=for-the-badge&logo=postgresql)
+
+### ⚙️ Backend & Systems
+![FastAPI](https://img.shields.io/badge/FastAPI-203a43?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-203a43?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-203a43?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-203a43?style=for-the-badge&logo=git)
+
+### 🤖 ML (Bonus)
+![PyTorch](https://img.shields.io/badge/PyTorch-2c5364?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2c5364?style=for-the-badge&logo=tensorflow)
+
+---
+
+## 🏆 Achievements
+
+- 🧩 **800+ LeetCode problems solved**
+- 📄 **Research paper under review** (Graph Theory – Hop Domination)
+- 🧪 Built **production-grade backend APIs & ML pipelines**
+- ⚡ Strong focus on **time & space optimization**
+- 🔁 Consistent competitive programming practice
+
+---
+
+## 🔥 Featured Projects
+
+### 🚗 Stock Price Prediction (Time-Series ML)
+- Advanced feature engineering (lags, rolling stats)
+- **99.33% R²**, **0.81% MAPE**
+- End-to-end ML pipeline
+
+### 🎬 Movie Review Platform (API-Based)
+- Integrated external movie APIs using secure API keys
+- Backend-first architecture with REST APIs
+
+### 🔋 Battery Health & RUL Prediction
+- Time-series ML on sensor data
+- **18% RMSE improvement** over baseline
+
+---
+
+## 🧠 Coding Profile
+
+<p align="center">
+  <a href="https://leetcode.com/u/snehithkumarmatte">
+    <img src="https://img.shields.io/badge/LeetCode-800%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode" />
+  </a>
+</p>
+
+---
+
+
+
+
+---
+
+## 🛸 Swag Zone
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="264"/>
+  <img src="https://earthsky.org/upl/2013/02/IC410New2.gif" height="150"/>
+</p>
+
+> _"Build systems like rockets. Launch them like missions."_ 🚀
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:snehithkumarmatte@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://linkedin.com/in/snehithkumarmatte">
+    <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+</p>
+
+<!-- ====== FOOTER ====== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer"/>
+</p>
