@@ -28,7 +28,7 @@ and solving algorithmic problems efficiently.
 
 I care about correctness, performance, and understanding the trade-offs involved in system design.
 
-- B.Tech in Electrical and Electronics Engineering, NIT Andhra Pradesh (2026)
+- B.Tech  at  NIT Andhra Pradesh (2026)
 - Solved 800+ problems in Data Structures and Algorithms
 - Research experience at IISc Bangalore, IIT Hyderabad, and NIT Warangal
 - Primary interests: Backend Engineering, Distributed Systems, Applied Machine Learning
